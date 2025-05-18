@@ -6,8 +6,8 @@ from order import Order
 
 print("--- Creating Instances ---")
 
-customer1 = Customer("Alice")
-customer2 = Customer("Bob")
+customer1 = Customer("Denzel")
+customer2 = Customer("Karani")
 
 coffee1 = Coffee("Espresso", "Dark Roast")
 coffee2 = Coffee("Latte", "Vanilla")
